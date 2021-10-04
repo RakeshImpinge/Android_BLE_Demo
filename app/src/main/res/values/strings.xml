@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BLEDemoApp</string>
+    <string name="permission">Permissions are required to access this app</string>
+    <string name="please_connect_first">Please connect device first</string>
+    <string name="enable_location">Please enable the Location First!</string>
+    <string name="enable_bluetooth">Please turn on the Bluetooth First!</string>
+</resources>
